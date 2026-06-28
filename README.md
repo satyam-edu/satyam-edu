@@ -14,10 +14,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam211kumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam211)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/satyam211)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam211kumar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-edu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/onecode_/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam-edukumar@gmail.com)
 
 </div>
 
@@ -50,8 +50,8 @@ const satyam = {
 
 | Project | Stack | What it does |
 |--------|-------|--------------|
-| **[UniTrack](https://github.com/satyam211/unitrack)** | Next.js · TypeScript · Supabase · Gemini AI | Full-stack PWA — AI timetable extraction, RLS-secured attendance tracker with optimistic UI |
-| **[TripMate](https://github.com/satyam211/tripmate)** | React · Node.js · Express · Prisma · PostgreSQL | Travel platform with Google OAuth, JWT auth, trip CRUD, and host approval workflows |
+| **[UniTrack](https://github.com/satyam-edu/unitrack)** | Next.js · TypeScript · Supabase · Gemini AI | Full-stack PWA — AI timetable extraction, RLS-secured attendance tracker with optimistic UI |
+| **[TripMate](https://github.com/satyam-edu/tripmate)** | React · Node.js · Express · Prisma · PostgreSQL | Travel platform with Google OAuth, JWT auth, trip CRUD, and host approval workflows |
 
 </div>
 
@@ -112,20 +112,20 @@ const satyam = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam211&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam-edu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-edu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=satyam211&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=satyam-edu&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Satyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam211&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Satyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam-edu&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -135,7 +135,7 @@ const satyam = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyam211&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=satyam-edu&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -145,7 +145,7 @@ const satyam = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/satyam211?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/satyam211)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/onecode_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/onecode_/)
 
 </div>
 
@@ -155,7 +155,7 @@ const satyam = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=satyam211&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=satyam-edu&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
