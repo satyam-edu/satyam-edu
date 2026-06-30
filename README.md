@@ -112,8 +112,6 @@ const satyam = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satyam-edu&theme=tokyonight&utcOffset=5.5" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam-edu&theme=tokyonight" width="49%"/>
 
 </div>
 
