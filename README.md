@@ -112,9 +112,11 @@ const satyam = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyam-edu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&cache_seconds=1800"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-edu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam-edu&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyam-edu&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyam-edu&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyam-edu&theme=tokyonight" width="32%"/>
 
 </div>
 
