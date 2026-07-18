@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyam%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyam%20&fontSize=42&fontColor=fff&animation=blurOut&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+full-stack+web+apps+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+products+%E2%9C%A8;140%2B+DSA+problems+on+LeetCode+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://satyamportfolio.framer.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-in)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-edu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/onecode_/)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Satyam_edu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam211kumar@gmail.com)
 
 </div>
@@ -30,9 +30,9 @@ const satyam = {
 - 💼 Freelance Full Stack Developer — built an enterprise hotel management platform for **Hotel Kamala Inn Grand**
 - 🛠️ Ship full-stack apps with **Next.js, Supabase, Prisma, and Google Gemini AI**
 - 🧠 Solved **200+ DSA problems** across all coding platforms
-- 🎨 Former **Graphic Design & UI Design Intern** @ Pephot Solutions — 70+ marketing creatives delivered
+- 💻 Web Developer @ **Software Development Cell (SDC)**, USICT
 - 🏆 **Social Media Lead** — Anugoonj 2025 (scaled reach to 10k+ followers)
-- 🤝 Executive Member @ **ACM Student Chapter**, Member @ **Software Development Cell**, USICT
+- 🤝 Executive Member @ **ACM Student Chapter**, USICT
 
 ---
 
