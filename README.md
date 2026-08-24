@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyam%20&fontSize=42&fontColor=fff&animation=blurOut&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyam%20&fontSize=42&fontColor=fff&animation=blurOut&fontAlignY=32&desc=A%20Software%20Engineer%20building%20products%20that%20are%20fast%2C%20scalable%2C%20and%20actually%20useful.&descAlignY=55&descSize=13" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+full-stack+web+apps+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+products+%E2%9C%A8;200%2B+DSA+problems+on+LeetCode+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+full-stack+web+apps+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+products+%E2%9C%A8;300%2B+DSA+problems+on+LeetCode+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://withsatyam.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-edu)
 [![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Satyam_edu)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam211kumar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsharma.main@gmail.com)
 
 </div>
 
@@ -26,32 +25,32 @@ const satyam = {
 };
 ```
 
-- 🎓 B.Tech CSE undergrad at **USICT, GGSIPU** (2023–2027)
-- 💼 Freelance Full Stack Developer — built an enterprise hotel management platform for **Hotel Kamala Inn Grand**
-- 🛠️ Ship full-stack apps with **Next.js, Supabase, Prisma, and Google Gemini AI**
-- 🧠 Solved **200+ DSA problems** across all coding platforms
-- 💻 Web Developer @ **Software Development Cell (SDC)**, USICT
-- 🏆 **Social Media Lead** — Anugoonj 2025 (scaled reach to 10k+ followers)
-- 🤝 Executive Member @ **ACM Student Chapter**, USICT
-
 ---
 
 ## Experience
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**Frontend Developer Intern**
+[CoinFerenceX](https://coinference.com) · Jul – Aug
+
+Sole developer managing the company website end-to-end — led a full design and technical upgrade, handled content updates and performance monitoring, and coordinated with senior team members on strategy.
+
+</td>
+<td width="33%" valign="top">
 
 **Freelance Full Stack Developer**
-[Hotel Kamala Inn Grand](https://kamalainngrand.com) · Jul 2026
+[Hotel Kamala Inn Grand](https://kamalainngrand.com) · Jul
 
 Built a production-ready hotel booking website and admin dashboard for reservations, room management, inquiries, and role-based administration. React + TypeScript frontend with Supabase Authentication, PostgreSQL, and secure role-based access control, delivered through direct client collaboration.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **Full Stack Developer**
-[URLyte](https://urlyte.com) · Apr 2026 – Jun 2026
+[URLyte](https://urlyte.com) · Apr – Jun
 
 Designed reusable, responsive React.js components to improve UI consistency across product screens. Built and integrated REST APIs for end-to-end data flow, optimized PostgreSQL queries, and implemented JWT authentication with role-based access control (RBAC).
 
