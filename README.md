@@ -44,7 +44,7 @@ Sole developer managing the company website end-to-end — led a full design and
 **Freelance Full Stack Developer**
 [Hotel Kamala Inn Grand](https://kamalainngrand.com) · Jul
 
-Built a production-ready hotel booking website and admin dashboard for reservations, room management, inquiries, and role-based administration. React + TypeScript frontend with Supabase Authentication, PostgreSQL, and secure role-based access control, delivered through direct client collaboration.
+Built a production-ready hotel booking website and admin dashboard for reservations, room management, and inquiries. React + TypeScript frontend with Supabase Authentication and PostgreSQL, delivered through direct client collaboration.
 
 </td>
 <td width="33%" valign="top">
