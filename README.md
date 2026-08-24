@@ -1,213 +1,163 @@
 <div align="center">
 
-<!-- ============ HERO ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Satyam%20&fontSize=42&fontColor=fff&animation=blurOut&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CS%20Undergrad%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-# Hey there, I'm Satyam 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+full-stack+web+apps+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Turning+ideas+into+products+%E2%9C%A8;200%2B+DSA+problems+on+LeetCode+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-**A Software Engineer building products that are fast, scalable, and actually useful.**
-
-*Currently building, learning, and shipping.*
-
-<br/>
-
-<!-- Social buttons — swap hrefs/usernames as needed -->
-<a href="mailto:satyamsharma.main@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/satyam211">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<!-- HERO VISUAL — place the gif at assets/satyam-edu-space-shooter.gif in this repo -->
-<img src="./assets/satyam-edu-space-shooter.gif" width="80%" alt="Space Shooter"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://withsatyam.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyam-edu)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Satyam_edu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyam211kumar@gmail.com)
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ============ ABOUT ME ============ -->
 
 ## About Me
 
+```ts
+const satyam = {
+  role        : "Full Stack Developer",
+  university  : "USICT, GGSIPU — B.Tech CSE '23–'27",
+  currentFocus: ["Full Stack Development", "DSA", "System Design"],
+  stack       : ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL"],
+  building    : "Products people actually use 🚀",
+};
+```
+
+- 🎓 B.Tech CSE undergrad at **USICT, GGSIPU** (2023–2027)
+- 💼 Freelance Full Stack Developer — built an enterprise hotel management platform for **Hotel Kamala Inn Grand**
+- 🛠️ Ship full-stack apps with **Next.js, Supabase, Prisma, and Google Gemini AI**
+- 🧠 Solved **200+ DSA problems** across all coding platforms
+- 💻 Web Developer @ **Software Development Cell (SDC)**, USICT
+- 🏆 **Social Media Lead** — Anugoonj 2025 (scaled reach to 10k+ followers)
+- 🤝 Executive Member @ **ACM Student Chapter**, USICT
+
+---
+
+## Experience
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**What I Build**
+**Freelance Full Stack Developer**
+[Hotel Kamala Inn Grand](https://kamalainngrand.com) · Jul 2026
 
-I'm a CSE student at USICT, building production software rather than just tutorials — web apps that go from idea to deployment, with real users on the other end.
+Built a production-ready hotel booking website and admin dashboard for reservations, room management, inquiries, and role-based administration. React + TypeScript frontend with Supabase Authentication, PostgreSQL, and secure role-based access control, delivered through direct client collaboration.
 
 </td>
 <td width="50%" valign="top">
 
-**How I Work**
+**Full Stack Developer**
+[URLyte](https://urlyte.com) · Apr 2026 – Jun 2026
 
-I care about clean, maintainable code and understanding a problem properly before writing the fix. Most of what I know, I picked up by shipping things end-to-end.
+Designed reusable, responsive React.js components to improve UI consistency across product screens. Built and integrated REST APIs for end-to-end data flow, optimized PostgreSQL queries, and implemented JWT authentication with role-based access control (RBAC).
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<!-- ============ TECH STACK ============ -->
+## Featured Projects
+
+<div align="center">
+
+| Project | Stack | What it does |
+|--------|-------|--------------|
+| **[UniTrack](https://github.com/satyam-edu/unitrack)** — *Live* | Next.js · TypeScript · Supabase · Gemini AI | AI-powered PWA — timetable extraction, RLS-secured attendance tracking with optimistic UI |
+| **[TripMate](https://github.com/satyam-edu/tripmate)** — *Live* | React · Node.js · Express · Prisma · PostgreSQL | Travel platform with OAuth, JWT auth, trip CRUD, and host approval workflows |
+</div>
+
+### UniTrack — AI-Powered Attendance Tracking PWA
+
+> A responsive Progressive Web App with 13+ screens that extracts timetables from images via Google Gemini and tracks attendance with row-level security.
+
+- 🤖 **2-pass AI ingestion pipeline** — self-verifies parsed timetables before writing to DB
+- 🔐 **Supabase RLS** with `auth.uid()` — enforces per-user data isolation at the DB layer
+- ⚡ **Optimistic UI** with automatic rollback on failure — zero perceived latency
+- 📱 **Installable PWA** — Web App Manifest + Service Workers across mobile and desktop layouts
+
+### TripMate — Travel Companion Platform
+
+> A responsive travel platform with intuitive flows for trip discovery, host dashboards, authentication, and trip management.
+
+- 🗺️ **13 REST endpoints** — auth, profile, trip CRUD, and host approval workflows
+- 🔑 **Google OAuth + JWT** — resource-level ownership checks for host-only mutations
+- 🗃️ **Prisma schema** — composite unique constraint prevents duplicate trip requests at DB level
+- 🛡️ Hardened with **Helmet, allowlisted CORS, JWT middleware** — deployed on Vercel + Render + Neon
+
+---
 
 ## Tech Stack
 
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-4B5563?style=flat-square"/>
-
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-**Tools / Platforms**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
-<br/>
-
----
-
-<!-- ============ PROJECTS ============ -->
-
-## Projects & Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### UniTrack
-AI-powered attendance tracking PWA — 13+ screens, optimistic UI, and AI-assisted workflows.
-
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Google Gemini`
-
-[Live →](#) &nbsp;|&nbsp; [Repo →](#)
-
-</td>
-<td width="50%" valign="top">
-
-### TripMate
-Travel companion platform with trip discovery, host dashboards, and trip management.
-
-`React` `TypeScript` `Node.js` `Express.js` `Prisma ORM` `PostgreSQL`
-
-[Live →](#) &nbsp;|&nbsp; [Repo →](#)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Hotel Kamala Inn Grand
-*Freelance Full Stack Developer*
-
-Production-ready hotel booking website and admin dashboard — reservations, room inventory, and guest inquiries.
-
-</td>
-<td width="33%" valign="top">
-
-### URLyte
-*Full Stack Developer*
-
-Product engineering across frontend components, REST APIs, JWT authentication, and PostgreSQL.
-
-</td>
-<td width="33%" valign="top">
-
-### CoinFerenceX
-*Frontend Developer Intern*
-
-Website maintenance, upgrades, content updates, and performance improvements.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ============ GITHUB CONTRIBUTIONS ============ -->
-
-## GitHub Contributions
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=satyam211&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br/><br/>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<img src="https://ghchart.rshah.org/58A6FF/satyam211" width="90%" alt="GitHub Contribution Graph"/>
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ============ ACTIVITY ============ -->
-
-## Activity
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam211&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyam-edu&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
+
+[![Satyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam-edu&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ============ VISITORS ============ -->
+## LeetCode Stats
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=satyam211&style=flat-square&color=58a6ff&label=VISITORS" alt="Visitor count"/>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/onecode_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/onecode_/)
 
 </div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=satyam-edu&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
+
