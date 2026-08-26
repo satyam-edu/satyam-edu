@@ -70,20 +70,6 @@ Designed reusable, responsive React.js components to improve UI consistency acro
 | **[TripMate](https://github.com/satyam-edu/tripmate)** — *Live* | React · Node.js · Express · Prisma · PostgreSQL | Travel platform with OAuth, JWT auth, trip CRUD, and host approval workflows |
 </div>
 
-### UniTrack — AI-Powered Attendance Tracking PWA
-
-- 🤖 **2-pass AI ingestion pipeline** — self-verifies parsed timetables before writing to DB
-- 🔐 **Supabase RLS** with `auth.uid()` — enforces per-user data isolation at the DB layer
-- ⚡ **Optimistic UI** with automatic rollback on failure — zero perceived latency
-- 📱 **Installable PWA** — Web App Manifest + Service Workers across mobile and desktop layouts
-
-### TripMate — Travel Companion Platform
-
-- 🗺️ **13 REST endpoints** — auth, profile, trip CRUD, and host approval workflows
-- 🔑 **Google OAuth + JWT** — resource-level ownership checks for host-only mutations
-- 🗃️ **Prisma schema** — composite unique constraint prevents duplicate trip requests at DB level
-- 🛡️ Hardened with **Helmet, allowlisted CORS, JWT middleware** — deployed on Vercel + Render + Neon
-
 ---
 
 ## Tech Stack
