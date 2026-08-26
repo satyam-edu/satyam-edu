@@ -72,16 +72,12 @@ Designed reusable, responsive React.js components to improve UI consistency acro
 
 ### UniTrack — AI-Powered Attendance Tracking PWA
 
-> A responsive Progressive Web App with 13+ screens that extracts timetables from images via Google Gemini and tracks attendance with row-level security.
-
 - 🤖 **2-pass AI ingestion pipeline** — self-verifies parsed timetables before writing to DB
 - 🔐 **Supabase RLS** with `auth.uid()` — enforces per-user data isolation at the DB layer
 - ⚡ **Optimistic UI** with automatic rollback on failure — zero perceived latency
 - 📱 **Installable PWA** — Web App Manifest + Service Workers across mobile and desktop layouts
 
 ### TripMate — Travel Companion Platform
-
-> A responsive travel platform with intuitive flows for trip discovery, host dashboards, authentication, and trip management.
 
 - 🗺️ **13 REST endpoints** — auth, profile, trip CRUD, and host approval workflows
 - 🔑 **Google OAuth + JWT** — resource-level ownership checks for host-only mutations
@@ -135,7 +131,7 @@ Designed reusable, responsive React.js components to improve UI consistency acro
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=satyam-edu&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
-[![Satyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam-edu&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/satyam-edu/satyam-edu/main/dist/github-jet.svg" alt="Satyam's GitHub Jet Heatmap" width="100%" />
 
 </div>
 
