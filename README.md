@@ -17,11 +17,11 @@
 
 ```ts
 const satyam = {
-  role        : "Full Stack Developer",
+  role        : "Software Developer",
   university  : "USICT, GGSIPU — B.Tech CSE '23–'27",
-  currentFocus: ["Full Stack Development", "DSA", "System Design"],
+  currentFocus: ["Full Stack Engineer", "DSA", "System Design", "AI/ML"],
   stack       : ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL"],
-  building    : "Products people actually use 🚀",
+  building    : "Products that solve real world problems",
 };
 ```
 
