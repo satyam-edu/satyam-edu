@@ -33,8 +33,8 @@ const satyam = {
 <tr>
 <td width="33%" valign="top">
 
-**Frontend Developer Intern**
-[CoinFerenceX](https://coinference.com) · Jul – Aug
+**Web Developer**
+[CoinFerenceX](https://coinference.com) · Aug – Oct
 
 Sole developer managing the company website end-to-end — led a full design and technical upgrade, handled content updates and performance monitoring, and coordinated with senior team members on strategy.
 
